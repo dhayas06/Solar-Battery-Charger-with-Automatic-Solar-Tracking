@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+*.tmp
+*.log
+*.zip
+*.rar
+.DS_Store
+Thumbs.db
