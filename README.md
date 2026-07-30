@@ -47,11 +47,11 @@ This project was developed collaboratively by a team of four members as part of 
 
 ## Circuit Diagram
 
-![Circuit Diagram](Images/circuit_diagram.jpeg)
+![Circuit Diagram](circuit_diagram.jpeg)
 
 ## Project Output
 
-![Project Output](Images/output.jpeg)
+![Project Output](output.jpeg)
 
 ## Software Used
 
